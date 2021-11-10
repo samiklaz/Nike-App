@@ -1,7 +1,9 @@
 {
   "expo": {
-    "name": "NikeApp",
+    "name": "Nike App",
     "slug": "NikeApp",
+    "privacy": "public",
+    "description": "An Application that helps you order for shoes of Nike brand",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
